@@ -1,4 +1,3 @@
-#!/usr/bin/python
 from dollybot import *
 import sys
 import subprocess
